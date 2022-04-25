@@ -1,6 +1,5 @@
 # Dogify
 This is a simple prototype for the Dogify application (SOEN 357 Concordia University).
-To run it, please open the index.html in the app folder. Navigtion is available in this prototype.
 
 ## Website available here: https://klivree.github.io/dogify/
 
