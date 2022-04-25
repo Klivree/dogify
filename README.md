@@ -2,10 +2,10 @@
 This is a simple prototype for the Dogify application.
 To run it, please open the index.html in the app folder. Navigtion is available in this prototype.
 
-#### Website available here: https://klivree.github.io/dogify/
+### Website available here: https://klivree.github.io/dogify/
 
-### Website created based on the figma design: https://www.figma.com/file/kUHuiR0PWEwKqcBKq4s4LN/Dogify-prototype
-Figma prototype is however more complete than the web pages.
+### Figma prototype: https://www.figma.com/file/kUHuiR0PWEwKqcBKq4s4LN/Dogify-prototype
+#### Note: The Figma prototype is however more complete than the web pages.
 
 SOEN 357 project
 - Eyal Azimov Id: 27527551
