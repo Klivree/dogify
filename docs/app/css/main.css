@@ -34,7 +34,7 @@ body {
     opacity: 1;
     position: absolute;
     top: 0px;
-    left: 107px;
+    left: 0px;
     overflow: hidden;
 }
 
@@ -43,8 +43,7 @@ body {
     height: 844px;
     background: url("../images/v49_3671.png");
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background-size: 700px;
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -293,7 +292,7 @@ body {
     opacity: 1;
     position: absolute;
     top: 216px;
-    left: 80px;
+    left: 0px;
     overflow: hidden;
 }
 
@@ -383,7 +382,7 @@ body {
     color: rgba(255, 255, 255, 1);
     position: absolute;
     top: 52px;
-    left: 80px;
+    left: 0px;
     font-family: Roboto;
     font-weight: Medium;
     font-size: 15px;
