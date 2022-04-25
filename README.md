@@ -1,4 +1,4 @@
-# dogify
+# Dogify
 This is a simple prototype for the Dogify application.
 To run it, please open the index.html in the app folder. Navigtion is available in this prototype.
 Website created based on the figma design: https://www.figma.com/file/kUHuiR0PWEwKqcBKq4s4LN/Dogify-prototype
