@@ -6,7 +6,7 @@ To run it, please open the index.html in the app folder. Navigtion is available 
 
 ## Figma prototype: https://www.figma.com/file/kUHuiR0PWEwKqcBKq4s4LN/Dogify-prototype
 
-### Note: The Figma prototype is however more complete than the web pages.
+### Note: The Figma prototype is more complete than the web pages.
 
 - Eyal Azimov Id: 27527551
 - Mélina Deneuve Id: 40153103
